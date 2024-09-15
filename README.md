@@ -29,9 +29,9 @@ pip install ttkthemes chardet
 ```
 🚀 Como Usar
 
-📥 Clone o repo ou baixe o script
-📦 Instale as dependências
-▶️ Execute o script:
+- 📥 Clone o repo ou baixe o script
+- 📦 Instale as dependências
+- ▶️ Execute o script:
 
 ```bash
 python pesquisa_produtos.py
