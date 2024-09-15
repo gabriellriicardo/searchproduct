@@ -36,10 +36,10 @@ pip install ttkthemes chardet
 ```bash
 python pesquisa_produtos.py
 ```
-📂 Use "Arquivo" > "Abrir arquivo de produtos" para carregar seu CSV
-🔎 Digite na barra de pesquisa para encontrar produtos
-⚖️ Use os filtros de preço para refinar resultados
-🔢 Clique nos cabeçalhos para ordenar
+-📂 Use "Arquivo" > "Abrir arquivo de produtos" para carregar seu CSV
+-🔎 Digite na barra de pesquisa para encontrar produtos
+-⚖️ Use os filtros de preço para refinar resultados
+-🔢 Clique nos cabeçalhos para ordenar
 
 📄 Formato do CSV
 Seu arquivo CSV deve seguir este formato:
